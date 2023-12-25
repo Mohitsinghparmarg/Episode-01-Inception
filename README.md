@@ -1,6 +1,5 @@
 Q1. Difference between library and framework.
 Library:
-
 A library is a collection of pre-written code, functions, and classes that you can use to perform specific tasks. Libraries are generally focused on providing a set of tools or utilities that can be used independently within your application. You include a library in your code and call its functions when you need specific functionality.
 
 Key characteristics of a library:
@@ -12,7 +11,6 @@ Control: You have more control over your application's architecture and flow sin
 Flexibility: You can combine multiple libraries together to build a customized solution that suits your application's needs.
 
 Framework:
-
 A framework, on the other hand, is a more comprehensive solution that provides a structured foundation for building applications. It dictates the architecture and flow of your application and often requires you to follow certain conventions and patterns. Instead of calling functions from a library, you build your application by extending and customizing the framework's components.
 
 Key characteristics of a framework:
@@ -20,6 +18,7 @@ Key characteristics of a framework:
 Inversion of Control: The framework controls the overall flow of your application.
 
 Q2. What is CDN? Why we use it?
+
 It's a network of servers that deliver web content (like images, scripts, styles) to users based on their geographic locations. Used for faster content delivery, reducing server load, and improving user experience.
 
 Q3. why is React known as React?
